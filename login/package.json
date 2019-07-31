@@ -1,0 +1,25 @@
+{
+  "name": "@umi-antdpro-blocks/login",
+  "version": "0.0.1",
+  "description": "login",
+  "main": "src/index.js",
+  "authors": {
+    "name": "Endy Yu",
+    "email": "yulongcs@qq.com"
+  },
+  "repository": "login/@umi-antdpro-blocks/login",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    
+    "umi-plugin-block-dev": "^2.0.0",
+    "umi-types": "^0.3.0"
+    
+    },
+  "license": "MIT"
+}
